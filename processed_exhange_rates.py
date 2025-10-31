@@ -1,0 +1,17 @@
+[
+  {
+    "currency_pair":"USD\/UGX",
+    "buying_rate":3463.14,
+    "selling_rate":3473.14
+  },
+  {
+    "currency_pair":"GBP\/USD",
+    "buying_rate":4575.673725,
+    "selling_rate":4588.886225
+  },
+  {
+    "currency_pair":"EUR\/USD",
+    "buying_rate":4025.727093,
+    "selling_rate":4037.351593
+  }
+]
